@@ -1,0 +1,6 @@
+D:\Work\GL_Task\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Work\GL_Task\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Work\GL_Task\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Work\GL_Task\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Work\GL_Task\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Work\GL_Task\Infrastructure\obj\Debug\Infrastructure.pdb

@@ -1,0 +1,17 @@
+D:\Work\GL_Task\ArchiverApp\bin\Debug\ArchiverApp.exe.config
+D:\Work\GL_Task\ArchiverApp\bin\Debug\ArchiverApp.exe
+D:\Work\GL_Task\ArchiverApp\bin\Debug\ArchiverApp.pdb
+D:\Work\GL_Task\ArchiverApp\obj\Debug\ArchiverApp.csprojResolveAssemblyReference.cache
+D:\Work\GL_Task\ArchiverApp\obj\Debug\App.g.cs
+D:\Work\GL_Task\ArchiverApp\obj\Debug\ArchiverApp_MarkupCompile.cache
+D:\Work\GL_Task\ArchiverApp\obj\Debug\ArchiverApp_MarkupCompile.lref
+D:\Work\GL_Task\ArchiverApp\obj\Debug\ArchiverApp.g.resources
+D:\Work\GL_Task\ArchiverApp\obj\Debug\ArchiverApp.Properties.Resources.resources
+D:\Work\GL_Task\ArchiverApp\obj\Debug\ArchiverApp.csproj.GenerateResource.Cache
+D:\Work\GL_Task\ArchiverApp\obj\Debug\ArchiverApp.csproj.CoreCompileInputs.cache
+D:\Work\GL_Task\ArchiverApp\obj\Debug\ArchiverApp.exe
+D:\Work\GL_Task\ArchiverApp\obj\Debug\ArchiverApp.pdb
+D:\Work\GL_Task\ArchiverApp\obj\Debug\View\MainWindow.g.cs
+D:\Work\GL_Task\ArchiverApp\obj\Debug\View\MainWindow.baml
+D:\Work\GL_Task\ArchiverApp\bin\Debug\Infrastructure.dll
+D:\Work\GL_Task\ArchiverApp\bin\Debug\Infrastructure.pdb
